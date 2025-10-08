@@ -8,3 +8,5 @@ Após o 'roscore' e play na simulação, pode-se controlar o AMR e o KUKA em seu
 A realsense está modelada e presente no coppelia e pode ser usada mediante uso do código de controle via MATLAB disponível nesse repositório.
 
 Devido a alta quantidade de dados, é necessário o uso de GPU para rodar a simulação
+
+Fernando-Braga/runs/detect/train12/weights   -> diretório pc salvo com os dados do treinamento best_v1.pt
